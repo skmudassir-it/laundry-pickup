@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" fill="none">
+  <text x="4" y="28" font-family="Arial,sans-serif" font-weight="bold" font-size="22" fill="oklch(0.50 0.20 200)">FRESH</text>
+  <text x="82" y="28" font-family="Arial,sans-serif" font-weight="bold" font-size="22" fill="oklch(0.78 0.12 145)">PRESS</text>
+  <circle cx="76" cy="12" r="4" fill="oklch(0.88 0.10 95)"/>
+  <circle cx="76" cy="22" r="4" fill="oklch(0.88 0.10 95)"/>
+  <circle cx="76" cy="32" r="4" fill="oklch(0.88 0.10 95)"/>
+</svg>
